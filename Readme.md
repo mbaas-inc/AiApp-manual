@@ -69,15 +69,15 @@
 
 ### 2.1 이메일로 회원가입하기 
 1. AiApp(`https://www.aiapp.help`) 웹사이트 메인 화면에서 "로그인" 버튼을 클릭합니다. 
-![메뉴얼_회원가입_1](../../../public/img/manual-join_1.jpg)
+![메뉴얼_회원가입_1](img/manual-join_1.jpg)
 
 1. 하단의 "회원가입 하러가기"를 클릭합니다.
-![메뉴얼_회원가입_2](../../../public/img/manual-join_2.jpg)
+![메뉴얼_회원가입_2](img/manual-join_2.jpg)
 
 1. 약관 동의를 확인해주세요.
    - ✅ **필수 동의 항목**: 개인정보 처리방침, 서비스 이용약관
    - ☑️ **선택 동의 항목**: 마케팅 정보 활용
-![메뉴얼_회원가입_3](../../../public/img/manual-join_3.jpg)
+![메뉴얼_회원가입_3](img/manual-join_3.jpg)
 
 1. 회원 정보를 입력해 주세요.
    
@@ -89,7 +89,7 @@
    - 비밀번호 재확인
    - 이름
    - 연락처
-  ![메뉴얼_회원가입_4](../../../public/img/manual-join_4.jpg)
+  ![메뉴얼_회원가입_4](img/manual-join_4.jpg)
 
 > 💡 **Tip**: 이름, 연락처의 경우, 추후 이메일을 잃어버린 경우 찾기 위해 정확한 정보를 입력해주세요.
 
@@ -98,21 +98,21 @@
 ## 3. 로그인 
 1. 🌐 로그인 화면으로 돌아와 이메일과 비밀번호를 입력하여 로그인을 합니다.
 
-![메뉴얼_로그인_1](../../../public/img/manual-login_1.jpg)
+![메뉴얼_로그인_1](img/manual-login_1.jpg)
 
 ## 4. 앱 생성하기
 
 ### 4.1 앱 생성하기 이동 
 - ➡️ 로그인 상태에서 메인홈의 오른쪽 상단에 "앱생성 하러가기"를 클릭해주세요.
 
-![메뉴얼_앱생성_1](../../../public/img/manual-app-create_1.jpg)
+![메뉴얼_앱생성_1](img/manual-app-create_1.jpg)
 
 ### 4.2 사전 설문조사 
 - AiApp을 알게된 경로
 - 예상하는 앱 개발 비용
 - 앱 개발 경험 여부
 
-![메뉴얼_앱생성_2](../../../public/img/manual-app-create_2.jpg)
+![메뉴얼_앱생성_2](img/manual-app-create_2.jpg)
 
 ### 4.3 앱 유형 선택 
 - 현재 제공 가능한 앱유형:
@@ -120,7 +120,7 @@
  
 > 💫 **Coming Soon**: 추후 다양한 앱유형이 추가될 예정입니다.
 
-![메뉴얼_앱생성_3](../../../public/img/manual-app-create_3.jpg)
+![메뉴얼_앱생성_3](img/manual-app-create_3.jpg)
 
 ### 4.4 유사앱 분석 
 #### 분석 제공 내용
@@ -134,7 +134,7 @@
 
 > 💫 **Coming Soon**: 추후 링크이동과 세세한 분석까지 제공될 예정입니다.
 
-![메뉴얼_앱생성_4](../../../public/img/manual-app-create_4.jpg)
+![메뉴얼_앱생성_4](img/manual-app-create_4.jpg)
 
 ### 4.5 프로젝트 정보 입력 
 #### 📱 앱 이름 입력
@@ -148,7 +148,7 @@
 - 🔑 관리자 페이지 로그인시 필요
 > - ⚠️ 추후 변경 불가능하므로 신중하게 작성해주세요
 
-![메뉴얼_앱생성_5](../../../public/img/manual-app-create_5.png)
+![메뉴얼_앱생성_5](img/manual-app-create_5.png)
 
 ### 4.6 앱 빌드 
 1. 🚀 "생성하기" 버튼을 클릭해주세요.
@@ -164,11 +164,11 @@
 
 > ⚠️ **주의**: IOS(애플)는 앱스토어, 테스트 플라이트 외 앱을 테스트할 방법이 없어 현재 진행이 불가능합니다. 
 
-![메뉴얼_앱설치_1](../../../public/img/manual-app-install_1.jpg)
+![메뉴얼_앱설치_1](img/manual-app-install_1.jpg)
 
-2. 스마트폰 카메라로 QR 코드를 스캔하여 .apk 파일 다운로드 링크를 통해 설치합니다.
+1. 스마트폰 카메라로 QR 코드를 스캔하여 .apk 파일 다운로드 링크를 통해 설치합니다.
 
-![메뉴얼_앱설치_2](../../../public/img/manual-app-install_2.jpg)
+![메뉴얼_앱설치_2](img/manual-app-install_2.jpg)
 
 ### 5.2 앱 설치하기 
 
@@ -178,19 +178,19 @@
 
 > 💡 **안내**: 현재 테스트 버전이라 구글 플레이스토어에 미등록 상태입니다. 이는 기본적인 보안 절차이며, 안전하게 설치를 진행하실 수 있습니다.
 
-![메뉴얼_앱설치_3](../../../public/img/manual-app-install_3.jpg)
+![메뉴얼_앱설치_3](img/manual-app-install_3.jpg)
 
-2. "앱 검사 권장됨" 메시지가 표시되면 앱 검사를 진행합니다.
+1. "앱 검사 권장됨" 메시지가 표시되면 앱 검사를 진행합니다.
 
-![메뉴얼_앱설치_4](../../../public/img/manual-app-install_4.jpg)
+![메뉴얼_앱설치_4](img/manual-app-install_4.jpg)
 
-3. 안전 검사 완료 후 설치를 진행합니다.
+1. 안전 검사 완료 후 설치를 진행합니다.
 
-![메뉴얼_앱설치_5](../../../public/img/manual-app-install_5.jpg)
+![메뉴얼_앱설치_5](img/manual-app-install_5.jpg)
 
-4. 설치 완료 후 `열기`를 눌러 앱을 실행합니다.
+1. 설치 완료 후 `열기`를 눌러 앱을 실행합니다.
 
-![메뉴얼_앱설치_6](../../../public/img/manual-app-install_6.jpg)
+![메뉴얼_앱설치_6](img/manual-app-install_6.jpg)
 
 ## 6. 온라인 기획서 테스트 
 
@@ -210,9 +210,9 @@
 ### 6.2 온라인 기획서 사용하기 
 
 1. 마이페이지에서 `기획서 관리` 클릭
-![메뉴얼_기획서_1](../../../public/img/manual-app-plan_1.jpg)
+![메뉴얼_기획서_1](img/manual-app-plan_1.jpg)
 
-2. 기획서 화면 구성
+1. 기획서 화면 구성
   - **화면 목록** 
     - 왼쪽에 생성된 앱의 화면 목록 표시
     - 클릭하여 미리보기 확인 가능
@@ -228,14 +228,14 @@
   - **부가 기능** 📤
     - PDF 다운로드: 전체 기획서 PDF 변환
     - 저장: 페이지별 수정사항 저장
-![메뉴얼_기획서_2](../../../public/img/manual-app-plan_2.jpg)
+![메뉴얼_기획서_2](img/manual-app-plan_2.jpg)
 
 ## 7. 관리자 페이지 
 
 ### 7.1 관리자 페이지 접속
 1. 마이페이지의 `관리자 페이지` 버튼 또는 https://church.aiapp.help/login 접속
 
-![메뉴얼_관리자페이지_1](../../../public/img/manual-admin_1.jpg)
+![메뉴얼_관리자페이지_1](img/manual-admin_1.jpg)
 
 ### 7.2 로그인
 - 로그인 정보:
@@ -243,13 +243,13 @@
    - AiApp 아이디
    - AiApp 비밀번호
 
-![메뉴얼_관리자페이지_2](../../../public/img/manual-admin_2.jpg)
+![메뉴얼_관리자페이지_2](img/manual-admin_2.jpg)
 
 ### 1.3 대시보드
 실시간으로 확인 가능한 정보:
 - 신규 가입자 현황
 - 최근 1:1 문의 내역
-![메뉴얼_관리자_대시보드_1](../../../public/img/manual-admin-dashboard.jpg)
+![메뉴얼_관리자_대시보드_1](img/manual-admin-dashboard.jpg)
 
 ## 8. 관리자 - 설정 관리 
 
@@ -259,16 +259,16 @@
 1. `설정 관리` > `대표정보 관리` 이동
 2. 필수 정보 입력
 3. `대표정보 저장` 클릭
-![메뉴얼_관리자_대표정보_1](../../../public/img/manual-admin-info_1.jpg)
-![메뉴얼_관리자_대표정보_2](../../../public/img/manual-admin-info_2.jpg)
+![메뉴얼_관리자_대표정보_1](img/manual-admin-info_1.jpg)
+![메뉴얼_관리자_대표정보_2](img/manual-admin-info_2.jpg)
 
 ### 8.2 게시판 관리
 - **새 게시판 생성**
   1. `설정 관리` > `게시판 설정` 이동
   2. 오른쪽 상단 `게시판 생성` 클릭
-![메뉴얼_관리자_게시판_생성_1](../../../public/img/manual-admin-board-create_1.jpg)
+![메뉴얼_관리자_게시판_생성_1](img/manual-admin-board-create_1.jpg)
 
-  3. 게시판 이름, 아이콘 이미지, 기능, 그룹 등을 설정하고 생성해주세요. 
+  1. 게시판 이름, 아이콘 이미지, 기능, 그룹 등을 설정하고 생성해주세요. 
 
 - **순서 변경** (개발중)
   1. `설정 관리` > `게시판 설정` 에서 `게시판 순서변경` 클릭
@@ -282,10 +282,10 @@
 - **신규 그룹 생성**
   1. `설정 관리` > `그룹 관리`로 이동
   2. 오른쪽 상단 `새 그룹 생성` 클릭
-![메뉴얼_관리자_그룹_생성_1](../../../public/img/manual-admin-group-create_1.jpg)
-  3. 그룹명 입력 후 전체 그룹에서 사용자 선택
-  4. 오른쪽 화살표로 사용자 추가, 왼쪽 화살표로 제거
-![메뉴얼_관리자_그룹_생성_2](../../../public/img/manual-admin-group-create_2.jpg)
+![메뉴얼_관리자_그룹_생성_1](img/manual-admin-group-create_1.jpg)
+  1. 그룹명 입력 후 전체 그룹에서 사용자 선택
+  2. 오른쪽 화살표로 사용자 추가, 왼쪽 화살표로 제거
+![메뉴얼_관리자_그룹_생성_2](img/manual-admin-group-create_2.jpg)
 
 ## 9. 관리자 - 컨텐츠 관리 
 
@@ -293,31 +293,31 @@
 - **작성 및 예약**
   1. `컨텐츠 관리` > `공지사항`로 이동
   2. `공지 글쓰기` 클릭
-![메뉴얼_관리자_공지사항_생성_1](../../../public/img/manual-admin-notice-create_1.jpg)
-  3. 제목, 내용, 게시일자를 선택해주세요.
+![메뉴얼_관리자_공지사항_생성_1](img/manual-admin-notice-create_1.jpg)
+  1. 제목, 내용, 게시일자를 선택해주세요.
     > - ⚠️ 게시일자는 금일 기준 이전 날짜를 선택하실 수 없습니다. 
-![메뉴얼_관리자_공지사항_생성_2](../../../public/img/manual-admin-notice-create_2.jpg)
+![메뉴얼_관리자_공지사항_생성_2](img/manual-admin-notice-create_2.jpg)
 
 - **수정/삭제**
   1. 수정할 공지사항을 클릭 후 내용을 수정합니다. 
-![메뉴얼_관리자_공지사항_수정_1](../../../public/img/manual-admin-notice-update_1.jpg)
-  2. 삭제시 리스트를 선택 후 삭제합니다. 
-![메뉴얼_관리자_공지사항_삭제_1](../../../public/img/manual-admin-notice-delete_1.jpg)
+![메뉴얼_관리자_공지사항_수정_1](img/manual-admin-notice-update_1.jpg)
+  1. 삭제시 리스트를 선택 후 삭제합니다. 
+![메뉴얼_관리자_공지사항_삭제_1](img/manual-admin-notice-delete_1.jpg)
 
 
 ### 9.2 1:1 문의
 - **문의글 답변**
   1. `컨텐츠 관리` > `1:1문의`로 이동
-![메뉴얼_관리자_1:1문의_1](../../../public/img/manual-admin-inquiry_1.jpg)
+![메뉴얼_관리자_1:1문의_1](img/manual-admin-inquiry_1.jpg)
 
 ### 9.3 회원관리
 #### 회원 상태 설정(활동, 활동정지, 강퇴)
 1. `컨텐츠 관리` > `회원 관리`로 이동
 2. 수정할 사용자를 선택
-![메뉴얼_관리자_회원_1](../../../public/img/manual-admin-member_1.jpg)
-3. `회원정보 수정` 클릭
-![메뉴얼_관리자_회원_2](../../../public/img/manual-admin-member_2.jpg)
-4. `상태`에서 활동, 활동정지, 강퇴 선택.
+![메뉴얼_관리자_회원_1](img/manual-admin-member_1.jpg)
+1. `회원정보 수정` 클릭
+![메뉴얼_관리자_회원_2](img/manual-admin-member_2.jpg)
+1. `상태`에서 활동, 활동정지, 강퇴 선택.
    -  활동 정지의 경우 일자를 선택합니다.
-![메뉴얼_관리자_회원_3](../../../public/img/manual-admin-member_3.jpg)
+![메뉴얼_관리자_회원_3](img/manual-admin-member_3.jpg)
 > **참고**: 강퇴 상태에서도 활동 상태로 변경 시 재로그인 가능
